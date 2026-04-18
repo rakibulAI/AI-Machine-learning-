@@ -673,7 +673,7 @@ class AnalyzerRenderer {
   document.body.innerHTML = `
     <header class="site-header">
       <div class="header-tag">AI / ML Engineer</div>
-      <h1 class="header-name">Ammar<br><em>AI Lab</em></h1>
+      <h1 class="header-name">Rakibul Hasan by artificial intelligence/machine learning<br><em>AI Lab</em></h1>
       <p class="header-sub">Neural Networks &amp; Data Analysis — Built from Scratch</p>
       <div class="header-badges">
         <span class="badge active">JavaScript</span>
